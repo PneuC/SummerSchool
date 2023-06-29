@@ -94,3 +94,4 @@ $RECYCLE.BIN/
 *.lnk
 
 .idea/
+Assets/StreamingAssets/Gpt4All/ggml-mpt-7b-chat.bin
